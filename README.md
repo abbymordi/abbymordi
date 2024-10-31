@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abby! an Electrical Engineering major
-- I enjoy tennis, fashion and family, enjoy! :)
+- Obsessed with tennis, technology, fashion and family, enjoy! :)
 
 <!---
 abbymordi/abbymordi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
